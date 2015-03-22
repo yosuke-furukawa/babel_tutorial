@@ -42,7 +42,7 @@ ECMAScript 2015には、下記の仕様が機能として追加されます。
 
 babelサポート文法一覧
 
-![babelサポート文法一覧](http://gyazo.com/e1737a869c61e12187298b5fe7c06e27)
+![babelサポート文法一覧](http://i.gyazo.com/e1737a869c61e12187298b5fe7c06e27.png)
 
 http://kangax.github.io/compat-table/es6/
 
